@@ -1,0 +1,15 @@
+**/*pyc
+**/__pycache__
+.coverage
+nosetests.xml
+*.egg-info
+cover
+venv/
+build/
+dist/
+.eggs/
+.DS_Store
+*/git_rev.json
+.ipynb_checkpoints/
+.idea
+*.log
