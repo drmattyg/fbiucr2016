@@ -3,9 +3,7 @@ import sys
 
 DATA_LINE_REGEX = re.compile('^[\s\d]\s*\d\d')  # lines containing full or partial data match this
 PARTIAL_LINE_REGEX = re.compile('^\s{37}\s*\d*')
-HEADERS = "AGENCY,G,MO,HOM,INC_NUM,SIT,VA,VS,VR,VE,OA,OS,OR,OE,WEAP,REL,CIR,=]" \
-          "/////////////" \
-          "////////SUB,AGENCY NAME,STATE" \
+HEADERS = "AGENCY,G,MO,HOM,INC_NUM,SIT,VA,VS,VR,VE,OA,OS,OR,OE,WEAP,REL,CIR,SUB,AGENCY NAME,STATE" \
     .split(",")
 
 
