@@ -1,0 +1,17 @@
+11,"""Firearm, type not stated.  (Does not include mechanics grease gun or caulking gun.)"""
+12,"""Handgun - pistol, revolver, etc."""
+13,Rifle
+14,Shotgun
+15,Other gun/Unknown Gun
+20,"""Knife or cutting instrument - include icepick, screwdriver, ax, etc."""
+30,"""Blunt object - hammer, club, etc.  Facts must suggest weapon was not hands and/or feet."""
+40,"""Personal weapons - include beating by hands, feet, and/or other body members or use of teeth."""
+50,Poison - does not include gas.
+55,Pushed or thrown out window (Defenestration)
+60,Explosives
+65,Fire
+70,Narcotics and drugs - includes sleeping pills.
+75,Drowning
+80,Strangulation - hanging
+85,Asphyxiation - include asphyxiation or death by gas.
+90,Other - type of weapon not designated or type unknown.
